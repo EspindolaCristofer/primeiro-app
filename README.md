@@ -1,2 +1,2 @@
-# primeiro-app
-Aprendendo a usar o git
+# Primeiro-app
+Aprendendo a usar o git, meu primeiro repositório.
